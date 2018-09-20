@@ -31,12 +31,13 @@ public class Calculate {
 	}
 
 	public static int add(int x, int y) {
-		return 0;
+		
+		return x+y;
 	}
 
 	public static int sub(int x, int y) {
 
-		return 0;
+		return x-y;
 	}
 
 	public static int mul(int x, int y) {
